@@ -1,0 +1,6 @@
+C:\Users\William\Pictures\Library CA\Library CA\obj\Debug\Library CA.csprojResolveAssemblyReference.cache
+C:\Users\William\Pictures\Library CA\Library CA\bin\Debug\Library CA.exe.config
+C:\Users\William\Pictures\Library CA\Library CA\bin\Debug\Library CA.exe
+C:\Users\William\Pictures\Library CA\Library CA\bin\Debug\Library CA.pdb
+C:\Users\William\Pictures\Library CA\Library CA\obj\Debug\Library CA.exe
+C:\Users\William\Pictures\Library CA\Library CA\obj\Debug\Library CA.pdb
